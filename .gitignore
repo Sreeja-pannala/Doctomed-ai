@@ -1,0 +1,6 @@
+doctomed_env/
+venv/
+env/
+__pycache__/
+*.pyc
+.env

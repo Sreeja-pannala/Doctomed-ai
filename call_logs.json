@@ -1,0 +1,7 @@
+{"timestamp": "2026-04-09 21:32:18.014970", "user_input": "i met with accident.", "language": "en", "intent": "emergency", "response": "This may be a medical emergency. Please call 144 or 112 immediately."}
+{"timestamp": "2026-04-09 21:32:33.228082", "user_input": "is there any nearest pharmacy?", "language": "en", "intent": "pharmacy", "response": "The nearest pharmacy is City Care Pharmacy."}
+{"timestamp": "2026-04-09 21:32:41.384867", "user_input": "okay, i'll go there.", "language": "en", "intent": "unknown", "response": "I did not understand your request. Please try again."}
+{"timestamp": "2026-04-09 21:32:55.916810", "user_input": "is there any near rest medical store?", "language": "en", "intent": "unknown", "response": "I did not understand your request. Please try again."}
+{"timestamp": "2026-04-09 21:33:05.124665", "user_input": "i met with accident.", "language": "en", "intent": "emergency", "response": "This may be a medical emergency. Please call 144 or 112 immediately."}
+{"timestamp": "2026-04-09 21:33:18.529402", "user_input": "i make the accident.", "language": "en", "intent": "emergency", "response": "This may be a medical emergency. Please call 144 or 112 immediately."}
+{"timestamp": "2026-04-09 21:33:36.435408", "user_input": "is there any nearest pharmacy near me?", "language": "en", "intent": "pharmacy", "response": "The nearest pharmacy is City Care Pharmacy."}
